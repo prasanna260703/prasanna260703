@@ -156,6 +156,7 @@ I'm actively looking for **Junior SOC Analyst / L1 Security Analyst** roles wher
 
 📬 **Email:** [prasannakumar260703@gmail.com](mailto:prasannakumar260703@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/prasannapillai](https://linkedin.com/in/prasannapillai)
+🌐 **Portfolio:** [prasanna-soc.netlify.app](https://prasanna-soc.netlify.app)
 🎮 **TryHackMe:** [tryhackme.com/p/prasanna.it22](https://tryhackme.com/p/prasanna.it22)
 
 ---
