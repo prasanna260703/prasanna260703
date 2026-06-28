@@ -117,6 +117,9 @@ Detail-oriented **Junior SOC Analyst** with hands-on experience in **SIEM monito
   <a href="https://tryhackme.com/p/prasanna.it22">
     <img src="https://tryhackme-badges.s3.amazonaws.com/prasanna.it22.png" alt="TryHackMe Badge"/>
   </a>
+  <a href="https://prasanna-soc.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
 </p>
 
 ---
